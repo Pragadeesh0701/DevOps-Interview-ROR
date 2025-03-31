@@ -1,5 +1,0 @@
-ecr_repo_url = "account.id.dkr.ecr.us-east-1.amazonaws.com/ror-app-repo"
-db_name    = "mydatabase"
-db_user    = "dbuser"
-db_password = "s"
-s3_bucket_name = "my-ror-app-bucket"
