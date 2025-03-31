@@ -1,4 +1,4 @@
-ecr_repo_url = "513993748673.dkr.ecr.us-east-1.amazonaws.com/ror-app-repo"
+ecr_repo_url = "account.id.dkr.ecr.us-east-1.amazonaws.com/ror-app-repo"
 db_name    = "mydatabase"
 db_user    = "dbuser"
 db_password = "s"
