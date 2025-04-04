@@ -103,10 +103,7 @@ terraform output lb_endpoint
    git commit -m "Added Terraform scripts"
    git push origin main
    ```
-2. **Share the GitHub repository** with `mallowtechdev`.
-3. **Email HR** at `hr@mallow-tech.com` with:
-   - GitHub repository link
-   - Branch details (`main`)
+
 
 ## Notes
 - Ensure AWS credentials are set up using `aws configure`
